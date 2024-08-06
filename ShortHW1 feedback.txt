@@ -1,0 +1,9 @@
+final grade: 100.0
+score for Q2.1 is 12.0/12
+score for Q2.2 is 12.0/12
+score for Q2.3 is 12.0/12
+score for Q3.2 is 20.0/20
+score for Q4.2 is 11.0/11
+score for Q4.3 is 11.0/11
+score for Q4.5 is 11.0/11
+score for Q4.6 is 11.0/11

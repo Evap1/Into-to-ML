@@ -1,0 +1,19 @@
+Q5:	5.0/5.0
+Q6:	5.0/5.0
+Q7:	10.0/10.0
+Q8:	7.0/7.0
+Q10:	5.0/5.0
+Q11:	10.0/10.0
+Q18:	10.0/10.0
+Q19:	10.0/10.0
+Q20:	10.0/10.0
+Q21:	8.0/10.0
+Q22:	8.0/10.0
+Readability_grids:	2.0/2.0
+Readability_axis_names:	2.0/2.0
+Readability_labels:	2.0/2.0
+File format:	2.0/2.0
+Comments:	Well done!
+appeals:	None.
+==============================
+Final grade: 96

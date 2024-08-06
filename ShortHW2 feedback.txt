@@ -1,0 +1,10 @@
+final grade: 100
+score for Q2.1 is 10.0/10
+score for Q2.2 is 10.0/10
+score for Q2.3 is 10.0/10
+score for Q3.4 is 10.0/10
+score for Q4.1 is 20.0/20
+score for Q4.2 is 20.0/20
+score for Q5.1 is 20.0/20
+bonus is 2.0/2
+comments: Please name the file with your ID
