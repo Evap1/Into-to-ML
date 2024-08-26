@@ -1,0 +1,10 @@
+final grade: 98.0
+score for Q1.1 is 6.0/10: (who is w in the answer?)
+score for Q1.2 is 20.0/20
+score for Q3.1 is 20.0/20
+score for Q3.2 is 10.0/10
+score for Q5.1 is 10.0/10
+score for Q5.2 is 10.0/10
+score for Q5.3 is 20.0/20
+bonus is 2.0/2
+comments: 
