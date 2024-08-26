@@ -3,7 +3,7 @@
 Major assigments were hands on practice. <br/>
 **MajorHW1** - Data Exploration, Preparation and the kNN model. <br/>
 **MajorHW2** - Algorithm Implementation and Basic Model Selection. Used three algorithms: k-NN, Decision Trees (with ID3), and Soft-SVM. <br/>
-**MajorHW3** - Regression.  <br/> <br/>
+**MajorHW3** - Regression: Linear, Lasso, Polynomial Lasso and Gradient Boosted Machines regression using cross-validation.   <br/> <br/>
 
 Short assigments were a theoretical practice: <br/>
 **ShortHW1** - Preparing for the course, basic libreries and probabilty background. <br/>
