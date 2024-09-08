@@ -1,0 +1,11 @@
+final grade: 100
+score for Q2.1 is 10.0/10
+score for Q2.2 is 10.0/20
+score for Q2.3 is 10.0/20
+score for Q2.4 is 10.0/10
+score for Q2.5 is 10.0/10
+score for Q2.6 is 10.0/10
+score for Q2.7 is 10.0/20
+score for Q3 is 30.0/30
+bonus is 2.0/2
+Penalty comments -0.0
