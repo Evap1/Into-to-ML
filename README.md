@@ -9,6 +9,5 @@ Short assigments were a theoretical practice: <br/>
 **ShortHW1** - Preparing for the course, basic libreries and probabilty background. <br/>
 **ShortHW2** - Classification. Focused Decision Trees, Linear classification and kNN. <br/>
 **ShortHW3** - SVM, Optimization, PAC learning and VC dimentions. <br/>
-**ShortHW4** - – Optimization, Regression, and Boosting. <br/> <br/>
+**ShortHW4** - Optimization, Regression, and Boosting. <br/> <br/>
 
-The course has yet finished. This repo is still under changes and updates. <br/>
